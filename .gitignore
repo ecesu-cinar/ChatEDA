@@ -219,3 +219,6 @@ __marimo__/
 
 # ChatEDA private data
 data/private/
+.env
+.venv/
+venv/
